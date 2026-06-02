@@ -1,0 +1,46 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+html
+    {margin-right: 10px;
+     margin-left: 10px;}  
+
+     article 
+     {display: grid;
+     grid-template-columns: auto auto;
+     padding: 0%;
+     padding-right : 10px;
+     padding-left: 1px;
+     padding-top : 20px;}
+
+header
+     {display: flex;
+     flex-wrap: wrap;}
+
+.button 
+     {display: flex;
+     flex-direction: column;
+     width:100%;}
+
+header .button input 
+     {width: 25vw;}
+
+aside
+     {margin-top: 20pt;
+        width:80%;}
+
+header div input 
+     {width: 70vw;}
+
+.bouton
+     {width: 25vw;
+     height: 30px;}
+
+header article {
+     grid-template-columns: auto auto auto;
+    margin-left: 10px;}
+
+main
+     {display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin-left: 10px;}}

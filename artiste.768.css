@@ -1,0 +1,27 @@
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width:992px) {
+
+html{margin-right: 40px;
+    margin-left: 40px;}
+
+article {  
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 0%;
+  padding-right : 20px;
+  padding-left: 1px;
+  padding-top : 20px;
+}
+
+.container{
+  background-color: #f1f1f1;
+  border: 1px solid rgb(36, 25, 25);
+  padding: 5pt;
+  padding-top: 10pt;
+  font-size: 15px;
+  text-align: center;
+  border: none;
+  border-radius: 1px;
+  box-shadow: -1px 1px 5px 1px rgba(0, 0, 0, 0.20);}
+
+  }

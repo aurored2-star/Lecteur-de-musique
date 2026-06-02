@@ -1,0 +1,16 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px)and (max-width:1200px) {
+
+html{margin-right: 40px;
+    margin-left: 40px;}
+
+article {  
+ display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+  justify-content: center;}
+
+.bouton{
+ width: 6vw;}
+
+  }
