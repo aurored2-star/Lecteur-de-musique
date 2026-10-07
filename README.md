@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🌐 **Démo : [version CSS](https://aurored2-star.github.io/lecteur-musique/) · [version Bootstrap](https://aurored2-star.github.io/lecteur-musique/bootstrap.html)**
+🌐 **Démo : [version CSS](https://aurored2-star.github.io/Lecteur-de-musique/) · [version Bootstrap](https://aurored2-star.github.io/Lecteur-de-musique/bootstrap.html)**
 
 ---
 
@@ -60,7 +60,7 @@ Faire la même interface avec deux approches m'a permis de comparer l'écriture 
 ## 🚀 Lancer le projet
 
 ```bash
-git clone https://github.com/aurored2-star/lecteur-musique.git
+git clone https://github.com/aurored2-star/Lecteur-de-musique.git
 ```
 
 Ouvrez `index.html` ou `bootstrap.html` dans votre navigateur, ou utilisez l'extension **Live Server** de VS Code.
